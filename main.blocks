@@ -13,7 +13,7 @@ f 4 4 4 4 f 4 4 4 f . f d f
 . f d 4 4 4 4 e e d f f f . 
 . f b f f f b f f b f . . . 
 . f f . . f f . . f f . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"(A(*iAe2A4YLu3=BZvNH"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="n5(r{-o^Z0cMZvbc,b}j"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="gamesetbackgroundimage" id="rmM2N{BkBWw02KrZ5kWL"><value name="img"><shadow type="background_image_picker" id="q$Qt9=%/7btR1%LE0FZ6"><field name="img">img`
+`</field><data>{"commentRefs":[],"fieldData":{"img":"(A(*iAe2A4YLu3=BZvNH"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="n5(r{-o^Z0cMZvbc,b}j"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="2/-2Ep6^rA(JC[G`-BE^"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="sprite"><block type="variables_get" id="wGsPliEk])sGPk/W`VME"><field name="VAR" id="/Gb5zPAi%a#]G@I?bE`f">mister</field></block></value><value name="vx"><shadow type="spriteSpeedPicker" id="pXYf2p!W%vKM=v%CGg=L"><field name="speed">100</field></shadow></value><value name="vy"><shadow type="spriteSpeedPicker" id="=HeyT`=b{lQ.-)k+dk~f"><field name="speed">100</field></shadow></value><next><block type="gamesetbackgroundimage" id="rmM2N{BkBWw02KrZ5kWL"><value name="img"><shadow type="background_image_picker" id="q$Qt9=%/7btR1%LE0FZ6"><field name="img">img`
 6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
 6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
 6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
@@ -134,4 +134,4 @@ f 4 4 4 4 f 4 4 4 f . f d f
 6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
 6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
 6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
-`</field><data>{"commentRefs":[],"fieldData":{"img":"q$Qt9=%/7btR1%LE0FZ6"}}</data></shadow></value></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"q$Qt9=%/7btR1%LE0FZ6"}}</data></shadow></value></block></next></block></next></block></statement></block></xml>
